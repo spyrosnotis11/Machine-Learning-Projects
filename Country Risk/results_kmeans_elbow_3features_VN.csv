@@ -1,0 +1,124 @@
+,Country,Abbrev,Label_without VZ,Label_with VZ
+0,Albania,AL,Low Risk cluster ,Low Risk cluster 
+1,Algeria,DZ,Low Risk cluster ,Low Risk cluster 
+2,Argentina,AR,High Risk cluster ,Low Risk cluster 
+3,Armenia,AM,Low Risk cluster ,Low Risk cluster 
+4,Australia,AU,Moderate Risk cluster ,Moderate Risk cluster 
+5,Austria,AT,Moderate Risk cluster ,Moderate Risk cluster 
+6,Azerbaijan,AZ,Low Risk cluster ,Low Risk cluster 
+7,Bahrain,BH,Low Risk cluster ,Low Risk cluster 
+8,Bangladesh,BD,Low Risk cluster ,Low Risk cluster 
+9,Belgium,BE,Moderate Risk cluster ,Moderate Risk cluster 
+10,Benin,BJ,Low Risk cluster ,Low Risk cluster 
+11,Bolivia,BO,Low Risk cluster ,Low Risk cluster 
+12,Bosnia and Herzegovina,BA,Low Risk cluster ,Low Risk cluster 
+13,Botswana,BW,Moderate Risk cluster ,Moderate Risk cluster 
+14,Brazil,BR,High Risk cluster ,Low Risk cluster 
+15,Bulgaria,BG,Low Risk cluster ,Moderate Risk cluster 
+16,Burundi,BI,High Risk cluster ,Low Risk cluster 
+17,Cameroon,CM,Low Risk cluster ,Low Risk cluster 
+18,Canada,CA,Moderate Risk cluster ,Moderate Risk cluster 
+19,Chad,TD,High Risk cluster ,Low Risk cluster 
+20,Chile,CL,Moderate Risk cluster ,Moderate Risk cluster 
+21,China,CN,Low Risk cluster ,Low Risk cluster 
+22,Colombia,CO,Low Risk cluster ,Low Risk cluster 
+23,Costa Rica,CR,Moderate Risk cluster ,Moderate Risk cluster 
+24,Croatia,HR,Low Risk cluster ,Low Risk cluster 
+25,Cyprus,CY,Moderate Risk cluster ,Moderate Risk cluster 
+26,Czech Republic,CZ,Moderate Risk cluster ,Moderate Risk cluster 
+27,Democratic Republic of Congo,CD,High Risk cluster ,Low Risk cluster 
+28,Denmark,DK,Moderate Risk cluster ,Moderate Risk cluster 
+29,Dominican Republic,DO,Low Risk cluster ,Low Risk cluster 
+30,Ecuador,EC,High Risk cluster ,Low Risk cluster 
+31,Egypt,EG,Low Risk cluster ,Low Risk cluster 
+32,El Salvador,SV,Low Risk cluster ,Low Risk cluster 
+33,Estonia,EE,Moderate Risk cluster ,Moderate Risk cluster 
+34,Ethiopia,ET,Low Risk cluster ,Low Risk cluster 
+35,Finland,FI,Moderate Risk cluster ,Moderate Risk cluster 
+36,France,FR,Moderate Risk cluster ,Moderate Risk cluster 
+37,Gabon,GA,Low Risk cluster ,Low Risk cluster 
+38,Georgia,GE,Low Risk cluster ,Low Risk cluster 
+39,Germany,DE,Moderate Risk cluster ,Moderate Risk cluster 
+40,Ghana,GH,Low Risk cluster ,Low Risk cluster 
+41,Greece,GR,Low Risk cluster ,Low Risk cluster 
+42,Guatemala,GT,Low Risk cluster ,Low Risk cluster 
+43,Honduras,HN,Low Risk cluster ,Low Risk cluster 
+44,Hungary,HU,Moderate Risk cluster ,Moderate Risk cluster 
+45,Iceland,IS,Moderate Risk cluster ,Moderate Risk cluster 
+46,India,IN,Low Risk cluster ,Low Risk cluster 
+47,Indonesia,ID,Low Risk cluster ,Low Risk cluster 
+48,Iran,IR,High Risk cluster ,Low Risk cluster 
+49,Ireland,IE,Moderate Risk cluster ,Moderate Risk cluster 
+50,Israel,IL,Low Risk cluster ,Low Risk cluster 
+51,Italy,IT,Moderate Risk cluster ,Moderate Risk cluster 
+52,Jamaica,JM,Moderate Risk cluster ,Low Risk cluster 
+53,Japan,JP,Moderate Risk cluster ,Moderate Risk cluster 
+54,Jordan,JO,Moderate Risk cluster ,Low Risk cluster 
+55,Kazakhstan,KZ,Low Risk cluster ,Low Risk cluster 
+56,Kenya,KE,Low Risk cluster ,Low Risk cluster 
+57,Korea (South),KI,Moderate Risk cluster ,Moderate Risk cluster 
+58,Kuwait,KW,Moderate Risk cluster ,Low Risk cluster 
+59,Latvia,LV,Moderate Risk cluster ,Moderate Risk cluster 
+60,Lebanon,LB,High Risk cluster ,Low Risk cluster 
+61,Liberia,LR,High Risk cluster ,Low Risk cluster 
+62,Lithuania,LT,Moderate Risk cluster ,Moderate Risk cluster 
+63,Madagascar,MG,Low Risk cluster ,Low Risk cluster 
+64,Malawi,MW,Low Risk cluster ,Low Risk cluster 
+65,Malaysia,MY,Moderate Risk cluster ,Moderate Risk cluster 
+66,Mali,ML,Low Risk cluster ,Low Risk cluster 
+67,Mauritania,MR,Low Risk cluster ,Low Risk cluster 
+68,Mauritius,MU,Moderate Risk cluster ,Moderate Risk cluster 
+69,Mexico,MX,High Risk cluster ,Low Risk cluster 
+70,Moldova,FM,Low Risk cluster ,Low Risk cluster 
+71,Montenegro,ME,Low Risk cluster ,Low Risk cluster 
+72,Morocco,MA,Low Risk cluster ,Low Risk cluster 
+73,Mozambique,MZ,Low Risk cluster ,Low Risk cluster 
+74,Nepal,NP,Low Risk cluster ,Low Risk cluster 
+75,Netherlands,NL,Moderate Risk cluster ,Moderate Risk cluster 
+76,New Zealand,NZ,Moderate Risk cluster ,Moderate Risk cluster 
+77,Nicaragua,NI,High Risk cluster ,Low Risk cluster 
+78,Nigeria,NG,High Risk cluster ,Low Risk cluster 
+79,Norway,NO,Moderate Risk cluster ,Moderate Risk cluster 
+80,Oman,OM,Moderate Risk cluster ,Moderate Risk cluster 
+81,Pakistan,PK,High Risk cluster ,Low Risk cluster 
+82,Panama,PA,Low Risk cluster ,Low Risk cluster 
+83,Paraguay,PY,High Risk cluster ,Low Risk cluster 
+84,Peru,PE,Low Risk cluster ,Low Risk cluster 
+85,Philippines,PH,Low Risk cluster ,Low Risk cluster 
+86,Poland,PL,Moderate Risk cluster ,Moderate Risk cluster 
+87,Portugal,PT,Moderate Risk cluster ,Moderate Risk cluster 
+88,Qatar,QA,Moderate Risk cluster ,Moderate Risk cluster 
+89,Romania,RO,Moderate Risk cluster ,Moderate Risk cluster 
+90,Russia,RU,High Risk cluster ,Low Risk cluster 
+91,Rwanda,RW,Low Risk cluster ,Low Risk cluster 
+92,Saudi Arabia,SA,High Risk cluster ,Low Risk cluster 
+93,Senegal,SN,Low Risk cluster ,Low Risk cluster 
+94,Serbia,RS,Low Risk cluster ,Low Risk cluster 
+95,Sierra Leone,SL,Low Risk cluster ,Low Risk cluster 
+96,Singapore,SG,Moderate Risk cluster ,Moderate Risk cluster 
+97,Slovakia,SK,Moderate Risk cluster ,Moderate Risk cluster 
+98,Slovenia,SI,Moderate Risk cluster ,Moderate Risk cluster 
+99,South Africa,ZA,High Risk cluster ,Low Risk cluster 
+100,Spain,ES,Moderate Risk cluster ,Moderate Risk cluster 
+101,Sri Lanka,LK,Low Risk cluster ,Low Risk cluster 
+102,Sweden,SE,Moderate Risk cluster ,Moderate Risk cluster 
+103,Switzerland,CH,Moderate Risk cluster ,Moderate Risk cluster 
+104,Taiwan,SY,Moderate Risk cluster ,Moderate Risk cluster 
+105,Tanzania,TZ,Low Risk cluster ,Low Risk cluster 
+106,Thailand,TH,Low Risk cluster ,Low Risk cluster 
+107,The FYR of Macedonia,MK,Low Risk cluster ,Low Risk cluster 
+108,Trinidad and Tobago,TT,High Risk cluster ,Low Risk cluster 
+109,Tunisia,TN,Low Risk cluster ,Low Risk cluster 
+110,Turkey,TR,High Risk cluster ,Low Risk cluster 
+111,Uganda,UG,Low Risk cluster ,Low Risk cluster 
+112,Ukraine,UA,High Risk cluster ,Low Risk cluster 
+113,United Arab Emirates,AE,Moderate Risk cluster ,Moderate Risk cluster 
+114,United Kingdom,GB,Moderate Risk cluster ,Moderate Risk cluster 
+115,United States,US,Moderate Risk cluster ,Moderate Risk cluster 
+116,Uruguay,UY,Moderate Risk cluster ,Moderate Risk cluster 
+117,Vietnam,VI,Low Risk cluster ,Low Risk cluster 
+118,Yemen,YE,High Risk cluster ,Low Risk cluster 
+119,Zambia,ZM,Low Risk cluster ,Low Risk cluster 
+120,Zimbabwe,ZW,High Risk cluster ,Low Risk cluster 
+121,Venezuela,VN,-,High Risk cluster 
+,,,,

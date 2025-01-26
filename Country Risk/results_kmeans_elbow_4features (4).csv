@@ -1,0 +1,122 @@
+,Country,Abbrev,Label
+0,Albania,AL,1
+1,Algeria,DZ,1
+2,Argentina,AR,2
+3,Armenia,AM,1
+4,Australia,AU,0
+5,Austria,AT,0
+6,Azerbaijan,AZ,1
+7,Bahrain,BH,1
+8,Bangladesh,BD,1
+9,Belgium,BE,0
+10,Benin,BJ,1
+11,Bolivia,BO,1
+12,Bosnia and Herzegovina,BA,1
+13,Botswana,BW,0
+14,Brazil,BR,2
+15,Bulgaria,BG,1
+16,Burundi,BI,2
+17,Cameroon,CM,1
+18,Canada,CA,0
+19,Chad,TD,2
+20,Chile,CL,0
+21,China,CN,1
+22,Colombia,CO,1
+23,Costa Rica,CR,0
+24,Croatia,HR,1
+25,Cyprus,CY,0
+26,Czech Republic,CZ,0
+27,Democratic Republic of Congo,CD,2
+28,Denmark,DK,0
+29,Dominican Republic,DO,1
+30,Ecuador,EC,2
+31,Egypt,EG,1
+32,El Salvador,SV,1
+33,Estonia,EE,0
+34,Ethiopia,ET,1
+35,Finland,FI,0
+36,France,FR,0
+37,Gabon,GA,1
+38,Georgia,GE,1
+39,Germany,DE,0
+40,Ghana,GH,1
+41,Greece,GR,1
+42,Guatemala,GT,1
+43,Honduras,HN,1
+44,Hungary,HU,1
+45,Iceland,IS,0
+46,India,IN,1
+47,Indonesia,ID,1
+48,Iran,IR,2
+49,Ireland,IE,0
+50,Israel,IL,1
+51,Italy,IT,0
+52,Jamaica,JM,1
+53,Japan,JP,0
+54,Jordan,JO,1
+55,Kazakhstan,KZ,1
+56,Kenya,KE,1
+57,Korea (South),KI,0
+58,Kuwait,KW,1
+59,Latvia,LV,0
+60,Lebanon,LB,2
+61,Liberia,LR,2
+62,Lithuania,LT,0
+63,Madagascar,MG,1
+64,Malawi,MW,1
+65,Malaysia,MY,0
+66,Mali,ML,1
+67,Mauritania,MR,1
+68,Mauritius,MU,0
+69,Mexico,MX,2
+70,Moldova,FM,1
+71,Montenegro,ME,1
+72,Morocco,MA,1
+73,Mozambique,MZ,1
+74,Nepal,NP,1
+75,Netherlands,NL,0
+76,New Zealand,NZ,0
+77,Nicaragua,NI,2
+78,Nigeria,NG,2
+79,Norway,NO,0
+80,Oman,OM,0
+81,Pakistan,PK,2
+82,Panama,PA,1
+83,Paraguay,PY,2
+84,Peru,PE,1
+85,Philippines,PH,1
+86,Poland,PL,0
+87,Portugal,PT,0
+88,Qatar,QA,0
+89,Romania,RO,1
+90,Russia,RU,2
+91,Rwanda,RW,1
+92,Saudi Arabia,SA,2
+93,Senegal,SN,1
+94,Serbia,RS,1
+95,Sierra Leone,SL,1
+96,Singapore,SG,0
+97,Slovakia,SK,0
+98,Slovenia,SI,0
+99,South Africa,ZA,2
+100,Spain,ES,0
+101,Sri Lanka,LK,1
+102,Sweden,SE,0
+103,Switzerland,CH,0
+104,Taiwan,SY,0
+105,Tanzania,TZ,1
+106,Thailand,TH,1
+107,The FYR of Macedonia,MK,1
+108,Trinidad and Tobago,TT,2
+109,Tunisia,TN,1
+110,Turkey,TR,2
+111,Uganda,UG,1
+112,Ukraine,UA,2
+113,United Arab Emirates,AE,0
+114,United Kingdom,GB,0
+115,United States,US,0
+116,Uruguay,UY,0
+117,Vietnam,VI,1
+118,Yemen,YE,2
+119,Zambia,ZM,1
+120,Zimbabwe,ZW,2
